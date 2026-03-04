@@ -1,0 +1,51 @@
+body{
+    font-family:serif ;
+    background-color:#f4f6f8 ;
+    text-align:center ;
+    margin:15px ;
+}
+
+h1{
+    color: #2c3e50;
+    font-size: 35px ;
+    margin-bottom:20px ;
+
+}
+
+table{
+    margin: auto ;
+    border-collapse: collapse;
+    width:50%;
+}
+
+th{
+    background-color: #3498db;
+    color:white;
+    padding:10px;
+}
+
+td{
+    border:1px solid #ddd; ;
+    padding:10px;
+
+}
+
+form{
+    background : white;
+    padding:20px ;
+    width:400px;
+    margin:auto;
+    border-radius:10px;
+}
+
+input[type="submit"]{
+   background-color: #338cc7;
+   color: white;
+   border: none;
+   cursor: pointer;
+}
+
+iframe{
+   margin-top: 20px;
+   border-radius: 8px;
+}
